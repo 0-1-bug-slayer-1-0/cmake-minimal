@@ -1,0 +1,9 @@
+[requires]
+gtest/1.10.0
+fmt/8.1.1
+zlib/1.2.12
+glog/0.6.0
+boost/1.76.0
+
+[generators]
+cmake_find_package
